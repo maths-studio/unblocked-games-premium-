@@ -460,7 +460,6 @@ const DIRECT_IMGS = {
   'Konnekt': 'https://i.imgur.com/aWe4aul.jpg',
   'BreakLock': 'https://i.imgur.com/yfzUSdy.jpg',
   'Connect 3': 'https://i.imgur.com/cjB5ZtA.jpg',
-  'Slope': 'https://i.imgur.com/ugwzqpi.jpg',
   'Basket Random': 'https://i.imgur.com/TO7LDHM.jpg',
   'Soccer Random': 'https://i.imgur.com/FKxjRGU.jpg',
   'Eggy Car': 'https://i.imgur.com/SrjQ0re.jpg',
@@ -477,7 +476,7 @@ const DIRECT_IMGS = {
   // Imgur screenshots
   'Bonk.io':               'https://i.imgur.com/6MXngga.jpg',
   'Krunker.io':            'https://i.imgur.com/1hWRpme.jpg',
-  'Yohoho.io':             'https://i.imgur.com/enQ4M8V.jpg',
+  'Yohoho.io':             'https://i.imgur.com/zoIss9m.jpg',
   'Stabfish.io':           'https://i.imgur.com/yLJEw8m.jpg',
   'Wormate.io':            'https://i.imgur.com/yQpsqBN.jpg',
   'Hexar.io':              'https://i.imgur.com/vdRtZfk.jpg',
