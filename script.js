@@ -472,11 +472,12 @@ const DIRECT_IMGS = {
   'Chrome Dino': 'https://i.imgur.com/Am5d9Xu.jpg',
   'Pac-Man': 'https://i.imgur.com/0BpduFN.jpg',
   'Geometry Dash': 'https://i.imgur.com/XKEO8b0.jpg',
+  'Slope':                    'https://i.imgur.com/MJ8mu8E.jpg',
   'Tunnel Rush':              'https://i.imgur.com/mGHhINX.jpg',
   // Imgur screenshots
   'Bonk.io':               'https://i.imgur.com/6MXngga.jpg',
   'Krunker.io':            'https://i.imgur.com/1hWRpme.jpg',
-  'Yohoho.io':             'https://i.imgur.com/zoIss9m.jpg',
+  'Yohoho.io':             'https://i.imgur.com/1qXtyiG.jpg',
   'Stabfish.io':           'https://i.imgur.com/yLJEw8m.jpg',
   'Wormate.io':            'https://i.imgur.com/yQpsqBN.jpg',
   'Hexar.io':              'https://i.imgur.com/vdRtZfk.jpg',
